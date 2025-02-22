@@ -1,5 +1,5 @@
 Ini adalah file dummy yaitu sebuah file tumbal yang bertujuan untuk :
-
+1. Mencoba untuk hebat dalam git
 2. Mencoba untuk bermain git
 3. pada file ini akan ada sesuatu yang dihapus maupun ditambahkan
 4. udah aing cape segitu aja ngan ke no 1 dihapus ku aing
